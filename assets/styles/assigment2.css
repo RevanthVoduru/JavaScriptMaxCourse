@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: 'Roboto', open-sans;
+  }
+  
+  body {
+    margin: 0;
+  }
+
+  .content{
+      display:flexbox;
+  }
